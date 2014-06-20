@@ -1,0 +1,28 @@
+---------------------------------------------
+License exclusive pour DirXplor
+---------------------------------------------
+DirXplor is programmed for free
+  The four thing i'll oblige will be :
+  - I'll only accept changes in DirXplor if i'm OK
+  - My name must be in your program ans sources
+  - The sources must be distributed freely almost the
+    part of the sources were's DirXplor's code
+  - DirXplor must only be distributed in it's original package
+    or made by me
+  Owerwise this program is free to use and to distribute
+  This program cannot be sold or sold modified.
+  Enjoy this code and this program !
+/////////////////////////////////////////////
+DirXplor est programmé pour être gratuit
+Je n'oblige que quatre choses :
+  - J'accepterais vos modifications dans dirxplor seulement si vous
+    m'en faites part
+  - Mon nom doit etre present dans votre programme ainsi que dans
+    vos sources si vous utilisez du code de DirXplor
+  - Votre programme devra être alors gratuit et au moins la partie
+    ou se trouve mon code sera distribuée
+  - DirXplor ne pourra etre distribué que dans son package original
+    fait par mes soins
+  Sinon ce programme est gratuit a utiliser et a distribuer
+  Attention il ne peut etre vendu
+  Maintenant prenez du plaisir avec DirXplor !
